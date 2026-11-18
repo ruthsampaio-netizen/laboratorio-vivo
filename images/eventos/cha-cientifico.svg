@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Imagem provisória: Chá Científico (2025)">
+  <defs>
+    <linearGradient id="grad-0-5508" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2f5233"/>
+      <stop offset="100%" stop-color="#2f5233" stop-opacity="0.85"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#grad-0-5508)"/>
+  <g transform="translate(557,250) rotate(186) scale(1.19)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(126,345) rotate(208) scale(1.15)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(129,133) rotate(272) scale(1.48)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(773,543) rotate(31) scale(1.46)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(573,138) rotate(169) scale(1.4)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(145,362) rotate(222) scale(1.46)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(856,496) rotate(285) scale(1.1)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(420,764) rotate(104) scale(1.59)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(886,741) rotate(61) scale(0.87)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+  <rect x="0" y="704" width="1200" height="96" fill="#1c2b1e" opacity="0.55"/>
+  <text x="40" y="748" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#f4f1e6" font-weight="600">Chá Científico (2025)</text>
+  <text x="40" y="780" font-family="Arial, sans-serif" font-size="18" fill="#e8e2d0">Plantas medicinais da Chapada do Araripe</text>
+  <g transform="translate(970,24)">
+    <rect x="0" y="0" width="206" height="40" rx="6" fill="#c9a227" opacity="0.92"/>
+    <text x="103" y="26" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#2b2408" text-anchor="middle">IMAGEM PROVISÓRIA</text>
+  </g>
+</svg>

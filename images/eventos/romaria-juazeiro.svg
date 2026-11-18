@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Imagem provisória: Romaria de Juazeiro do Norte (2025)">
+  <defs>
+    <linearGradient id="grad-3-2001" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4a7856"/>
+      <stop offset="100%" stop-color="#4a7856" stop-opacity="0.85"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#grad-3-2001)"/>
+  <g transform="translate(44,371) rotate(44) scale(1.4)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(87,582) rotate(359) scale(1.54)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(348,634) rotate(237) scale(0.66)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(310,65) rotate(43) scale(1.24)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(724,175) rotate(338) scale(1.04)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(723,308) rotate(82) scale(0.98)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(965,389) rotate(20) scale(0.85)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(945,452) rotate(318) scale(0.85)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(972,139) rotate(126) scale(1.49)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+  <rect x="0" y="704" width="1200" height="96" fill="#1c2b1e" opacity="0.55"/>
+  <text x="40" y="748" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#f4f1e6" font-weight="600">Romaria de Juazeiro do Norte (2025)</text>
+  <text x="40" y="780" font-family="Arial, sans-serif" font-size="18" fill="#e8e2d0">Distribuição de mudas</text>
+  <g transform="translate(970,24)">
+    <rect x="0" y="0" width="206" height="40" rx="6" fill="#c9a227" opacity="0.92"/>
+    <text x="103" y="26" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#2b2408" text-anchor="middle">IMAGEM PROVISÓRIA</text>
+  </g>
+</svg>

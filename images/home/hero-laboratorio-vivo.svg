@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Imagem provisória: Laboratório Vivo de Plantas Medicinais">
+  <defs>
+    <linearGradient id="grad-0-6901" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2f5233"/>
+      <stop offset="100%" stop-color="#2f5233" stop-opacity="0.85"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#grad-0-6901)"/>
+  <g transform="translate(449,325) rotate(282) scale(1.51)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(207,220) rotate(228) scale(0.89)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(845,8) rotate(164) scale(1.38)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(319,369) rotate(4) scale(1.41)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(843,574) rotate(350) scale(0.78)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(642,196) rotate(335) scale(1.33)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(332,769) rotate(28) scale(1.41)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(1140,44) rotate(184) scale(1.5)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(834,102) rotate(209) scale(1.19)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#e8e2d0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#e8e2d0" stroke-width="1.5" opacity="0.6"/></g>
+  <rect x="0" y="704" width="1200" height="96" fill="#1c2b1e" opacity="0.55"/>
+  <text x="40" y="748" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#f4f1e6" font-weight="600">Laboratório Vivo de Plantas Medicinais</text>
+  <text x="40" y="780" font-family="Arial, sans-serif" font-size="18" fill="#e8e2d0">Substituir por fotografia real do hero</text>
+  <g transform="translate(970,24)">
+    <rect x="0" y="0" width="206" height="40" rx="6" fill="#c9a227" opacity="0.92"/>
+    <text x="103" y="26" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#2b2408" text-anchor="middle">IMAGEM PROVISÓRIA</text>
+  </g>
+</svg>

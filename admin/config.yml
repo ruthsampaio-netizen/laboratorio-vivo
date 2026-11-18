@@ -1,0 +1,94 @@
+# ==========================================================================
+# CONFIGURAÇÃO DO EDITOR VISUAL (Sveltia CMS)
+# ==========================================================================
+# Este arquivo diz ao editor visual (a página /admin) onde fica o site e
+# quais campos mostrar na tela de edição.
+#
+# Observação: este valor é preenchido automaticamente quando o Claude
+# publica o site pela primeira vez. Se precisar trocar manualmente no
+# futuro, troque "repo:" pelo endereço do repositório no GitHub, no
+# formato "usuario/nome-do-repositorio".
+# ==========================================================================
+
+backend:
+  name: github
+  repo: ruthsampaio-netizen/laboratorio-vivo
+  branch: main
+
+# Pasta onde as fotos que você enviar pelo editor visual serão guardadas,
+# e o caminho usado no site para exibi-las. Não precisa mexer aqui.
+media_folder: "images/uploads"
+public_folder: "images/uploads"
+
+# Este editor guarda o conteúdo do site em um único arquivo:
+# js/data.json — o mesmo arquivo descrito no README.md. Os campos abaixo
+# correspondem exatamente às informações desse arquivo, mas organizadas
+# em um formulário fácil de preencher.
+collections:
+  - name: "conteudo"
+    label: "Conteúdo do Site"
+    files:
+      - name: "dados"
+        label: "Dados do Laboratório Vivo"
+        file: "js/data.json"
+        fields:
+          - label: "Institucional e Contato"
+            name: "instituicao"
+            widget: "object"
+            fields:
+              - { label: "Nome do Projeto", name: "nomeProjeto", widget: "string" }
+              - { label: "Nome da Instituição", name: "instituicaoNome", widget: "string" }
+              - { label: "Curso", name: "curso", widget: "string" }
+              - { label: "Endereço", name: "endereco", widget: "string" }
+              - { label: "Link do Instagram (endereço completo)", name: "instagram", widget: "string" }
+              - { label: "E-mail de contato", name: "email", widget: "string" }
+              - { label: "Link do Google Forms (para o formulário de contato)", name: "linkGoogleForms", widget: "string", required: false }
+
+          - label: "Números de Impacto"
+            name: "impacto"
+            widget: "list"
+            summary: "{{fields.rotulo}}: {{fields.numero}}"
+            fields:
+              - { label: "Número (ou faixa, ex.: 500–1.000)", name: "numero", widget: "string" }
+              - { label: "Rótulo (o que esse número representa)", name: "rotulo", widget: "string" }
+
+          - label: "Projetos e Subprojetos"
+            name: "projetos"
+            widget: "list"
+            summary: "{{fields.titulo}}"
+            fields:
+              - { label: "Identificador (sem espaços ou acentos)", name: "id", widget: "string", hint: "Usado apenas internamente. Exemplo: equilibrio-verde" }
+              - { label: "Título do Projeto", name: "titulo", widget: "string" }
+              - { label: "Resumo (1 a 2 frases)", name: "resumo", widget: "text" }
+              - { label: "Imagem do Projeto", name: "imagem", widget: "image" }
+              - { label: "Link (deixe # se ainda não tiver página própria)", name: "link", widget: "string", default: "#", required: false }
+
+          - label: "Trajetória e Reconhecimento (linha do tempo)"
+            name: "trajetoria"
+            widget: "list"
+            summary: "{{fields.ano}} — {{fields.titulo}}"
+            fields:
+              - { label: "Ano", name: "ano", widget: "string", hint: "Exemplo: 2025, 2026 ou 2025–2026" }
+              - { label: "Título do marco", name: "titulo", widget: "string" }
+              - { label: "Descrição", name: "descricao", widget: "text" }
+              - { label: "Imagem (opcional)", name: "imagem", widget: "image", required: false }
+
+          - label: "Ciência e Conhecimento (Publicações)"
+            name: "publicacoes"
+            widget: "list"
+            summary: "{{fields.titulo}}"
+            fields:
+              - { label: "Título da Publicação", name: "titulo", widget: "string" }
+              - { label: "Autor(es)", name: "autores", widget: "string" }
+              - { label: "Ano", name: "ano", widget: "string" }
+              - { label: "Tipo (artigo, TCC, relatório, material educativo...)", name: "tipo", widget: "string" }
+              - { label: "Link do PDF (opcional)", name: "linkPdf", widget: "string", required: false, default: "#" }
+
+          - label: "Galeria — Na Prática"
+            name: "galeria"
+            widget: "list"
+            summary: "{{fields.categoria}} — {{fields.legenda}}"
+            fields:
+              - { label: "Categoria", name: "categoria", widget: "string", hint: "Exemplo: Cultivo, Escolas, Oficinas..." }
+              - { label: "Imagem", name: "imagem", widget: "image" }
+              - { label: "Legenda", name: "legenda", widget: "string" }

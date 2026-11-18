@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Imagem provisória: Visitas Escolares">
+  <defs>
+    <linearGradient id="grad-2-7090" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6b5335"/>
+      <stop offset="100%" stop-color="#6b5335" stop-opacity="0.85"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#grad-2-7090)"/>
+  <g transform="translate(468,628) rotate(303) scale(1.02)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#f1ede0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#f1ede0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(506,101) rotate(220) scale(1.07)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#f1ede0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#f1ede0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(468,343) rotate(98) scale(0.65)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#f1ede0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#f1ede0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(429,569) rotate(183) scale(0.84)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#f1ede0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#f1ede0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(68,96) rotate(217) scale(1.28)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#f1ede0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#f1ede0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(621,294) rotate(304) scale(0.91)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#f1ede0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#f1ede0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(1188,326) rotate(198) scale(1.37)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#f1ede0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#f1ede0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(912,490) rotate(13) scale(0.84)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#f1ede0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#f1ede0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(433,88) rotate(92) scale(1.58)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#f1ede0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#f1ede0" stroke-width="1.5" opacity="0.6"/></g>
+  <rect x="0" y="704" width="1200" height="96" fill="#1c2b1e" opacity="0.55"/>
+  <text x="40" y="748" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#f4f1e6" font-weight="600">Visitas Escolares</text>
+  <text x="40" y="780" font-family="Arial, sans-serif" font-size="18" fill="#e8e2d0">Educação básica no Laboratório Vivo</text>
+  <g transform="translate(970,24)">
+    <rect x="0" y="0" width="206" height="40" rx="6" fill="#c9a227" opacity="0.92"/>
+    <text x="103" y="26" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#2b2408" text-anchor="middle">IMAGEM PROVISÓRIA</text>
+  </g>
+</svg>

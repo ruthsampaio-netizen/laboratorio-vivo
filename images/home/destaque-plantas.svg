@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Imagem provisória: Plantas Medicinais">
+  <defs>
+    <linearGradient id="grad-1-4222" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3d6b4a"/>
+      <stop offset="100%" stop-color="#3d6b4a" stop-opacity="0.85"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#grad-1-4222)"/>
+  <g transform="translate(408,14) rotate(104) scale(1.1)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#f1ede0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#f1ede0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(971,633) rotate(310) scale(0.81)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#f1ede0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#f1ede0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(98,402) rotate(244) scale(1.52)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#f1ede0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#f1ede0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(245,182) rotate(48) scale(0.91)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#f1ede0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#f1ede0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(994,261) rotate(61) scale(1.08)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#f1ede0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#f1ede0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(578,514) rotate(300) scale(0.89)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#f1ede0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#f1ede0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(849,118) rotate(169) scale(0.85)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#f1ede0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#f1ede0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(377,612) rotate(248) scale(1.37)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#f1ede0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#f1ede0" stroke-width="1.5" opacity="0.6"/></g>
+<g transform="translate(1111,126) rotate(272) scale(1.12)" opacity="0.35"><path d="M0,-40 C22,-30 32,-8 0,40 C-32,-8 -22,-30 0,-40 Z" fill="#f1ede0"/><line x1="0" y1="-38" x2="0" y2="38" stroke="#f1ede0" stroke-width="1.5" opacity="0.6"/></g>
+  <rect x="0" y="704" width="1200" height="96" fill="#1c2b1e" opacity="0.55"/>
+  <text x="40" y="748" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#f4f1e6" font-weight="600">Plantas Medicinais</text>
+  <text x="40" y="780" font-family="Arial, sans-serif" font-size="18" fill="#e8e2d0">Substituir por foto do cultivo</text>
+  <g transform="translate(970,24)">
+    <rect x="0" y="0" width="206" height="40" rx="6" fill="#c9a227" opacity="0.92"/>
+    <text x="103" y="26" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#2b2408" text-anchor="middle">IMAGEM PROVISÓRIA</text>
+  </g>
+</svg>
