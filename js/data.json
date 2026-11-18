@@ -9,15 +9,42 @@
     "linkGoogleForms": "[INSERIR LINK DO GOOGLE FORMS]"
   },
   "impacto": [
-    { "numero": "500–1.000", "rotulo": "mudas distribuídas em 2026 (estimativa da coordenação)" },
-    { "numero": "+1.000", "rotulo": "mudas distribuídas em 2025, na Romaria de Juazeiro do Norte" },
-    { "numero": "1.500+", "rotulo": "mudas distribuídas em 2025–2026 (soma conservadora)" },
-    { "numero": "21–40", "rotulo": "participantes por atividade em 2026 (estimativa)" },
-    { "numero": "+20", "rotulo": "estudantes na equipe do projeto (estimativa)" },
-    { "numero": "3–5", "rotulo": "projetos parceiros que receberam mudas em 2026 (estimativa)" },
-    { "numero": "3", "rotulo": "edições do Equilíbrio Verde em 2026 (março, junho e setembro)" },
-    { "numero": "+400", "rotulo": "instituições reunidas no EduInspirar 2025, com participação do projeto" },
-    { "numero": "2", "rotulo": "anos consecutivos como projeto destaque do PEAS" }
+    {
+      "numero": "500–1.000",
+      "rotulo": "mudas distribuídas em 2026 (estimativa da coordenação)"
+    },
+    {
+      "numero": "+1.000",
+      "rotulo": "mudas distribuídas em 2025, na Romaria de Juazeiro do Norte"
+    },
+    {
+      "numero": "1.500+",
+      "rotulo": "mudas distribuídas em 2025–2026 (soma conservadora)"
+    },
+    {
+      "numero": "21–40",
+      "rotulo": "participantes por atividade em 2026 (estimativa)"
+    },
+    {
+      "numero": "+20",
+      "rotulo": "estudantes na equipe do projeto (estimativa)"
+    },
+    {
+      "numero": "3–5",
+      "rotulo": "projetos parceiros que receberam mudas em 2026 (estimativa)"
+    },
+    {
+      "numero": "3",
+      "rotulo": "edições do Equilíbrio Verde em 2026 (março, junho e setembro)"
+    },
+    {
+      "numero": "+400",
+      "rotulo": "instituições reunidas no EduInspirar 2025, com participação do projeto"
+    },
+    {
+      "numero": "2",
+      "rotulo": "anos consecutivos como projeto destaque do PEAS"
+    }
   ],
   "projetos": [
     {
@@ -44,7 +71,7 @@
     {
       "id": "capacitacao-pesquisa",
       "titulo": "Capacitação para Pesquisa",
-      "resumo": "Formação de estudantes em técnicas de Concentração Inibitória Mínima (CIM) e modulação bacteriana, investigando extratos das plantas cultivadas no laboratório.",
+      "resumo": "Capacitação de estudantes  em manejo de plantas, pesquisa científica e usos etnobotânicos, fortalecendo a formação dos estudantes e integrando conhecimentos científicos e saberes tradicionais sobre plantas medicinais",
       "imagem": "images/projetos/capacitacao-pesquisa.svg",
       "link": "#"
     },
@@ -57,15 +84,60 @@
     }
   ],
   "trajetoria": [
-    { "ano": "2025", "titulo": "Distribuição de mudas na Romaria de Juazeiro do Norte", "descricao": "Produção e distribuição de mais de 1.000 mudas durante a Romaria, ampliando o acesso da população às plantas medicinais.", "imagem": "images/eventos/romaria-juazeiro.svg" },
-    { "ano": "2025", "titulo": "Participação no EduInspirar", "descricao": "O projeto participou da iniciativa que reuniu mais de 400 instituições, ampliando a visibilidade de sua proposta educativa.", "imagem": "images/eventos/cha-cientifico.svg" },
-    { "ano": "2025", "titulo": "1ª edição do Chá Científico", "descricao": "Em 28 de abril, evento sobre as plantas medicinais da Chapada do Araripe, com três convidados e doação de mudas produzidas pelo laboratório.", "imagem": "images/eventos/cha-cientifico.svg" },
-    { "ano": "2025", "titulo": "Prêmio Institucional de Melhor Projeto de Extensão Ambiental e Social", "descricao": "Reconhecimento à contribuição do Laboratório Vivo para a educação ambiental e a extensão universitária.", "imagem": "images/eventos/romaria-juazeiro.svg" },
-    { "ano": "2026", "titulo": "Encontro de Saberes da Caatinga — Exu (PE)", "descricao": "Em março, oficina promovendo diálogo entre o conhecimento científico e os saberes tradicionais sobre plantas medicinais.", "imagem": "images/eventos/encontro-saberes-caatinga.svg" },
-    { "ano": "2026", "titulo": "Corrida Unileão", "descricao": "Em abril, distribuição de mudas e sementes durante o evento, alcançando pessoas fora do ambiente universitário.", "imagem": "images/eventos/corrida-unileao.svg" },
-    { "ano": "2026", "titulo": "3 edições do Equilíbrio Verde", "descricao": "Oficinas de pintura, produção de tintas naturais e confecção de bombas de sementes, realizadas em março, junho e setembro.", "imagem": "images/eventos/corrida-unileao.svg" },
-    { "ano": "2026", "titulo": "Participação no CONINTER", "descricao": "Em novembro, apresentação do projeto no Congresso Internacional da Unileão, ampliando sua visibilidade acadêmica.", "imagem": "images/eventos/coninter.svg" },
-    { "ano": "2025–2026", "titulo": "Projeto destaque do PEAS por dois anos consecutivos", "descricao": "Reconhecimento informado pela coordenação, evidenciando a continuidade e a consistência das ações do Laboratório Vivo.", "imagem": "images/eventos/coninter.svg" }
+    {
+      "ano": "2025",
+      "titulo": "Distribuição de mudas na Romaria de Juazeiro do Norte",
+      "descricao": "Produção e distribuição de mais de 1.000 mudas durante a Romaria, ampliando o acesso da população às plantas medicinais.",
+      "imagem": "images/eventos/romaria-juazeiro.svg"
+    },
+    {
+      "ano": "2025",
+      "titulo": "Participação no EduInspirar",
+      "descricao": "O projeto participou da iniciativa que reuniu mais de 400 instituições, ampliando a visibilidade de sua proposta educativa.",
+      "imagem": "images/eventos/cha-cientifico.svg"
+    },
+    {
+      "ano": "2025",
+      "titulo": "1ª edição do Chá Científico",
+      "descricao": "Em 28 de abril, evento sobre as plantas medicinais da Chapada do Araripe, com três convidados e doação de mudas produzidas pelo laboratório.",
+      "imagem": "images/eventos/cha-cientifico.svg"
+    },
+    {
+      "ano": "2025",
+      "titulo": "Prêmio Institucional de Melhor Projeto de Extensão Ambiental e Social",
+      "descricao": "Reconhecimento à contribuição do Laboratório Vivo para a educação ambiental e a extensão universitária.",
+      "imagem": "images/eventos/romaria-juazeiro.svg"
+    },
+    {
+      "ano": "2026",
+      "titulo": "Encontro de Saberes da Caatinga — Exu (PE)",
+      "descricao": "Em março, oficina promovendo diálogo entre o conhecimento científico e os saberes tradicionais sobre plantas medicinais.",
+      "imagem": "images/eventos/encontro-saberes-caatinga.svg"
+    },
+    {
+      "ano": "2026",
+      "titulo": "Corrida Unileão",
+      "descricao": "Em abril, distribuição de mudas e sementes durante o evento, alcançando pessoas fora do ambiente universitário.",
+      "imagem": "images/eventos/corrida-unileao.svg"
+    },
+    {
+      "ano": "2026",
+      "titulo": "3 edições do Equilíbrio Verde",
+      "descricao": "Oficinas de pintura, produção de tintas naturais e confecção de bombas de sementes, realizadas em março, junho e setembro.",
+      "imagem": "images/eventos/corrida-unileao.svg"
+    },
+    {
+      "ano": "2026",
+      "titulo": "Participação no CONINTER",
+      "descricao": "Em novembro, apresentação do projeto no Congresso Internacional da Unileão, ampliando sua visibilidade acadêmica.",
+      "imagem": "images/eventos/coninter.svg"
+    },
+    {
+      "ano": "2025–2026",
+      "titulo": "Projeto destaque do PEAS por dois anos consecutivos",
+      "descricao": "Reconhecimento informado pela coordenação, evidenciando a continuidade e a consistência das ações do Laboratório Vivo.",
+      "imagem": "images/eventos/coninter.svg"
+    }
   ],
   "publicacoes": [
     {
@@ -91,14 +163,50 @@
     }
   ],
   "galeria": [
-    { "categoria": "Cultivo", "imagem": "images/galeria/cultivo.svg", "legenda": "Manejo diário e cultivo das espécies" },
-    { "categoria": "Plantas", "imagem": "images/galeria/plantas.svg", "legenda": "Espécies medicinais cultivadas" },
-    { "categoria": "Estudantes", "imagem": "images/galeria/estudantes.svg", "legenda": "Equipe de estudantes do Laboratório Vivo" },
-    { "categoria": "Comunidade", "imagem": "images/galeria/comunidade.svg", "legenda": "Encontro de Saberes da Caatinga, em Exu" },
-    { "categoria": "Escolas", "imagem": "images/galeria/escolas.svg", "legenda": "Visita escolar ao Laboratório Vivo" },
-    { "categoria": "Oficinas", "imagem": "images/galeria/oficinas.svg", "legenda": "Oficinas do Equilíbrio Verde" },
-    { "categoria": "Pesquisa", "imagem": "images/galeria/pesquisa.svg", "legenda": "Capacitação em CIM e modulação bacteriana" },
-    { "categoria": "Eventos", "imagem": "images/galeria/eventos.svg", "legenda": "Corrida Unileão e CONINTER" },
-    { "categoria": "Equilíbrio Verde", "imagem": "images/galeria/equilibrio-verde.svg", "legenda": "Pintura, tintas naturais e bombas de sementes" }
+    {
+      "categoria": "Cultivo",
+      "imagem": "images/galeria/cultivo.svg",
+      "legenda": "Manejo diário e cultivo das espécies"
+    },
+    {
+      "categoria": "Plantas",
+      "imagem": "images/galeria/plantas.svg",
+      "legenda": "Espécies medicinais cultivadas"
+    },
+    {
+      "categoria": "Estudantes",
+      "imagem": "images/galeria/estudantes.svg",
+      "legenda": "Equipe de estudantes do Laboratório Vivo"
+    },
+    {
+      "categoria": "Comunidade",
+      "imagem": "images/galeria/comunidade.svg",
+      "legenda": "Encontro de Saberes da Caatinga, em Exu"
+    },
+    {
+      "categoria": "Escolas",
+      "imagem": "images/galeria/escolas.svg",
+      "legenda": "Visita escolar ao Laboratório Vivo"
+    },
+    {
+      "categoria": "Oficinas",
+      "imagem": "images/galeria/oficinas.svg",
+      "legenda": "Oficinas do Equilíbrio Verde"
+    },
+    {
+      "categoria": "Pesquisa",
+      "imagem": "images/galeria/pesquisa.svg",
+      "legenda": "Capacitação em CIM e modulação bacteriana"
+    },
+    {
+      "categoria": "Eventos",
+      "imagem": "images/galeria/eventos.svg",
+      "legenda": "Corrida Unileão e CONINTER"
+    },
+    {
+      "categoria": "Equilíbrio Verde",
+      "imagem": "images/galeria/equilibrio-verde.svg",
+      "legenda": "Pintura, tintas naturais e bombas de sementes"
+    }
   ]
 }
