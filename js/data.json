@@ -3,8 +3,8 @@
     "nomeProjeto": "Laboratório Vivo de Plantas Medicinais",
     "instituicaoNome": "Centro Universitário Leão Sampaio – Unileão",
     "curso": "Curso de Biomedicina — Programa de Educação Ambiental e Social (PEAS)",
-    "endereco": "[INSERIR ENDEREÇO INSTITUCIONAL]",
-    "instagram": "[INSERIR LINK DO INSTAGRAM]",
+    "endereco": "Unileão - Campus Saúde",
+    "instagram": "@labvivo.unileao",
     "email": "[INSERIR E-MAIL DE CONTATO]",
     "linkGoogleForms": "[INSERIR LINK DO GOOGLE FORMS]"
   },
@@ -34,10 +34,6 @@
       "rotulo": "projetos parceiros que receberam mudas em 2026 (estimativa)"
     },
     {
-      "numero": "3",
-      "rotulo": "edições do Equilíbrio Verde em 2026 (março, junho e setembro)"
-    },
-    {
       "numero": "+400",
       "rotulo": "instituições reunidas no EduInspirar 2025, com participação do projeto"
     },
@@ -51,7 +47,7 @@
       "id": "laboratorio-vivo",
       "titulo": "Laboratório Vivo de Plantas Medicinais",
       "resumo": "Manejo diário de irrigação, cultivo, conservação dos canteiros e produção de mudas — a base que sustenta todas as demais atividades do projeto.",
-      "imagem": "images/projetos/laboratorio-vivo.svg",
+      "imagem": "https://drive.google.com/file/d/16YGUyscGUGMOnr2TQ-MDmM1rDlnfopqV/view?usp=sharing",
       "link": "#"
     },
     {
